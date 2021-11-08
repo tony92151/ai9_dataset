@@ -1,6 +1,6 @@
 wdir: ..
 outs:
-- md5: e6f03a827de039a3d055d68a7f94d615.dir
-  size: 323939924
-  nfiles: 5083
+- md5: 73c49985153c9b734f4f1aa425733a94.dir
+  size: 2842019565
+  nfiles: 4747
   path: data
